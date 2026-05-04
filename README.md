@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://i.imgur.com/EprDOTF.gif"  />
+  <img align="center" height="150" src="https://i.imgur.com/EprDOTF.gif" width="180" />
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@ Olá! Eu sou <b>João Henrique</b> </samp>
 
 <div align="center" width="100%">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=00BFFF&width=900&size=22&center=true&lines=Sou+do+Brasil;Tenho+15+anos;Futuro+programador🚀;Buscando+ganhar+dinheiro+com+código;Bem-vindo+ao+meu+GitHub💙" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=00BFFF&width=900&size=22&center=true&lines=Sou+do+Brasil;Tenho+15+anos;Futuro+programador🚀;Buscando+ganhar+dinheiro+com+codigo;Bem-vindo+ao+meu+GitHub💙" alt="typing SVG"/>
 </div>
 
 <br>
