@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://imgur.com/gallery/sasuke-t3JBb5I#EprDOTF.gif" />
+  <img align="center" height="150" src="https://i.imgur.com/EprDOTF.gif"  />
 </div>
 
 <div align="center">
